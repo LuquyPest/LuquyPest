@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @LuquyPest
+- 🌱 I’m currently learning Python , C and Powershell
