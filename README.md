@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @LuquyPest
+- 👋 Hi, I’m @Daryu
 - 🌱 I’m currently learning Python , C and Powershell
