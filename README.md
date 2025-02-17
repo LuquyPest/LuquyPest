@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **https://cv.daryu.xyz/**
 
+- ⚡ Fun fact **I'm currently search any project with network or Dev but i"m jus new player on this**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
