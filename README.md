@@ -18,7 +18,7 @@
   <a href="https://github.com/LuquyPest">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
-  <a href="https://discord.gg/._.pest">
+  <a href="https://discord.gg/nV7zXjMpzp">
     <img src="https://skillicons.dev/icons?i=discord" height="40"/>
   </a>
 </p>
