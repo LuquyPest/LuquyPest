@@ -6,14 +6,6 @@
 
 ### Adminsys/Devops
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=LuquyPest&label=Profile views&color=0e75b6&style=flat" alt="LuquyPest" /> 
-</p>
-
-<p align="left"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=LuquyPest" alt="LuquyPest" />
-</p>
-
 - 🔭 I'm currently working on **https://github.com/LuquyPest/sunset_web**
 - 📫 How to reach me **lylian.fredon@daryu.xyz**
 - 👨‍💻 All of my projects: **https://portfolio.daryu.xyz**
