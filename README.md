@@ -1,7 +1,7 @@
 # Hi 👋, I'm Daryu
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TON-USERNAME/TON-REPO/main/banner.png" alt="banner" />
+  <img src="https://raw.githubusercontent.com/LuquyPest/LuquyPest/refs/heads/main/dary.png" alt="banner" />
 </p>
 
 ### Adminsys/Devops
