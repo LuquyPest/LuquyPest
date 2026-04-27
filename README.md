@@ -8,8 +8,8 @@
 
 - 🔭 I'm currently working on **https://github.com/LuquyPest/sunset_web**
 - 📫 How to reach me **lylian.fredon@daryu.xyz**
-- 👨‍💻 All of my projects: **https://portfolio.daryu.xyz**
-- 📄 My CV: **https://portfolio.daryu.xyz**
+- 👨‍💻 All of my projects: **https://cv.daryu.xyz**
+- 📄 My CV: **https://cv.daryu.xyz**
 
 ---
 
