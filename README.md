@@ -8,9 +8,6 @@
 ██████╔╝██║  ██║██║  ██║   ██║   ╚██████╔╝
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝
 ```
-
-<img src="https://raw.githubusercontent.com/LuquyPest/LuquyPest/refs/heads/main/dary.png" width="200" style="border-radius: 50%;" />
-
 </div>
 
 ---
